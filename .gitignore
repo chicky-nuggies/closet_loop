@@ -1,0 +1,6 @@
+/venv/
+.env
+/model/
+/marketplace-images/
+/clothes-images/
+/__pycache__/

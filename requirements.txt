@@ -1,0 +1,6 @@
+streamlit
+pillow
+transformers
+qdrant-client
+torch
+sqlite3
