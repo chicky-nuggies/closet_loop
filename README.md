@@ -1,4 +1,4 @@
-# AI Fashion Assistant
+# Closet Loop (AI Fashion Assistant)
 
 The AI Fashion Assistant is a Streamlit web application that helps users manage their virtual wardrobe, generate outfit recommendations using AI, save their favorite outfits, and browse a thrift marketplace for new clothing items.
 
